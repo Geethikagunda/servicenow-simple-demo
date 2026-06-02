@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="0975c2ec97d5c7d09a24fefce053aff6" label="User_info" max_length="40" name="x_2052376_user_d_0_user_info" type="collection">
+        <element label="Designation" max_length="40" name="designation" type="string"/>
+        <element label="L_Name" max_length="40" name="l_name" type="string"/>
+        <element label="F_name" max_length="40" name="f_name" type="string"/>
+    </element>
+</database>
